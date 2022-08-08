@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KasetWit</string>
+    <string name="facebook_app_id">184319769523028</string>
+    <string name="fb_login_protocol_scheme">fb184319769523028</string>
+    <string name="cancelled">Canceled</string>
+    <string name="FBexception">Facebook Exception</string>
+    <string name="ok">OK</string>
+
+</resources>
